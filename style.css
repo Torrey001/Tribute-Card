@@ -1,0 +1,26 @@
+h1{
+    color: azure;
+}
+body{
+    background-color: #18c729;
+}
+.card{
+    text-align: center;
+    border: 1px solid ;
+    width: 80%;
+    margin: 0 auto;
+    padding: auto;
+}
+img{
+    width: 100%;
+    padding-top: 25px;
+}
+.card{
+    max-width: fit-content;
+    margin: 0 auto;
+}
+p{
+    font-size:large;
+    color: azure;
+    font: italic;
+}
